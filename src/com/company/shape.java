@@ -2,7 +2,7 @@ package com.company;
 
 import java.net.PortUnreachableException;
 
-public class shape{
+public abstract class shape{
    String color;
    boolean filled;
    shape() {};
